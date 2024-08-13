@@ -300,3 +300,8 @@ vite@^5.4.0:
     rollup "^4.13.0"
   optionalDependencies:
     fsevents "~2.3.3"
+
+xstate@^5.17.1:
+  version "5.17.1"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-5.17.1.tgz#58f047e51c6418d3b6ebee0c4bd6c62cde7ca4ad"
+  integrity sha512-RNwcXdth+kboWZg+Zhf6f6iNP6CtAAiS4z4qwyTd/fWBH9PHXRqko6OdW3xOTwP62f0mVD+jsPOSqY4Ar8nZKQ==
